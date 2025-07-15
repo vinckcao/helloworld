@@ -18,7 +18,7 @@ namespace HelloWorldApp
             {
                 // 显示欢迎信息
                 Console.WriteLine("=================================");
-                Console.WriteLine("    欢迎123使用 Hello World 程序!");
+                Console.WriteLine("    ***欢迎使用 Hello World 程序!***");
                 Console.WriteLine("=================================");
                 Console.WriteLine();
 
